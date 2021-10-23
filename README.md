@@ -5,4 +5,9 @@
  
  *pegar token com conta do facebook:* <br/>
  ![image](https://user-images.githubusercontent.com/18663739/138561427-fa96b896-80c4-4560-8939-22489e1dde79.png)
+ <br/>
+ *Atribuir chave a variável 'API_KEY':* <br/>
+ ![image](https://user-images.githubusercontent.com/18663739/138561565-bb5be7ab-c00a-421d-9f12-17b045442743.png)
+
+ 
 
